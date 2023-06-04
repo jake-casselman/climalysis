@@ -1,5 +1,5 @@
 # Climalysis
-![Climalysis Logo](/images/climalysis.png)
+![Climalysis Logo](/images/climalysis_nobg.png)
 
 Emerging from the dedicated minds of researchers from ETH's Subseasonal to Seasonal research group, Climalysis is more than a mere project - it's a collaborative initiative designed to drive forward our understanding of climate impacts and their patterns.
 
