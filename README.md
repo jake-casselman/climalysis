@@ -19,16 +19,16 @@ The project is rooted in open science principles, pushing the boundaries of what
 
 First, clone the repository:
 
-\`\`\`shell
+```shell
 git clone https://github.com/{your_username}/climalysis.git
-\`\`\`
+```
 
 Next, navigate to the cloned repository and install the package:
 
-\`\`\`shell
+```shell
 cd climalysis
 python setup.py install
-\`\`\`
+```
 
 Ensure you have Python 3.x installed on your system before installation.
 
@@ -42,9 +42,9 @@ Climalysis requires the following Python packages:
 
 After installation, you can import and use our package in your Python scripts:
 
-\`\`\`python
+```python
 from climalysis import module1, module2
-\`\`\`
+```
 
 You can now access the functions/classes in these modules.
 
@@ -52,9 +52,9 @@ You can now access the functions/classes in these modules.
 
 If you wish to run tests, use the following command in the root directory of the project:
 
-\`\`\`shell
+```shell
 python -m unittest discover
-\`\`\`
+```
 
 ## Contributing
 
