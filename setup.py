@@ -16,7 +16,7 @@ setup(
     name="climalysis",
     version=VERSION,
     author="Jake Casselman",
-    author_email="<your-email@domain.com>",
+    author_email="<jake.casselman@climalinks.com",
     description=DESCRIPTION,
     long_description_content_type="text/markdown",
     long_description=long_description,
