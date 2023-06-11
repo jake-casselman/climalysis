@@ -1,4 +1,5 @@
 # Climalysis ☁️🌞
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/jake-casselman/climalysis/blob/main/LICENSE) 
 
 Emerging from the dedicated minds of researchers from ETH's Subseasonal to Seasonal research group, Climalysis is more than a mere project - it's a collaborative initiative designed to drive forward our understanding of climate impacts and their patterns.
 
