@@ -1,5 +1,4 @@
-# Climalysis
-![Climalysis Logo](/images/climalysis-frame.png)
+# Climalysis ☁️🌞
 
 Emerging from the dedicated minds of researchers from ETH's Subseasonal to Seasonal research group, Climalysis is more than a mere project - it's a collaborative initiative designed to drive forward our understanding of climate impacts and their patterns.
 
@@ -27,7 +26,7 @@ Welcome to Climalysis - because understanding our climate is a shared responsibi
 First, clone the repository:
 
 ```shell
-git clone https://github.com/{your_username}/climalysis.git
+git clone https://github.com/jake-casselman/climalysis.git
 ```
 
 Next, navigate to the cloned repository and install the package:
